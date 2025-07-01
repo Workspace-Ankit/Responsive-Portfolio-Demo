@@ -16,7 +16,7 @@ This is a demo portfolio page created as part of the [freeCodeCamp](https://www.
 - Interactive hover effects
 - Accessible and semantic HTML structure
 
-- ## 🛠️ Built With
+## 🛠️ Built With
 
 - HTML5
 - CSS3
